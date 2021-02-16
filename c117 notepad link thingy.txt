@@ -1,0 +1,3 @@
+c117 class model
+
+https://teachablemachine.withgoogle.com/models/ATfBgdu87/
